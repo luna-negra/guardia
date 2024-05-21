@@ -23,6 +23,8 @@ you can try access to your machine unlimitedly with whitelist information withou
 ---
 ## Version
 
+<details>
+<summary> Beta Version </summary>
 <table>
     <tr>
        <th style="width:100px;">version</th>
@@ -31,12 +33,19 @@ you can try access to your machine unlimitedly with whitelist information withou
        <th style="witdh:100px">derived version</th>
     </tr>
     <tr>
-       <td style="text-align:center;">0.1.1_beta</td>
-       <td style="text-align:center;">2024. 05. 21</td>
+       <td style="text-align:center;">0.1.2_beta</td>
+       <td style="text-align:center;">N/A</td>
        <td style="text-align:center;">beta: test version, the latest</td>
        <td style="text-align:center">N/A</td>
     </tr>
+    <tr>
+       <td style="text-align:center;">0.1.1_beta</td>
+       <td style="text-align:center;">N/A</td>
+       <td style="text-align:center;">beta: test version</td>
+       <td style="text-align:center">N/A</td>
+    </tr>
 </table>
+</details>
 
 ---
 ## Support OS
@@ -54,6 +63,7 @@ You can use 'guardia' with,
 ```commandline
 git clone https://github.com/luna-negra/guardia
 ```
+
 The command above makes you to have the latest version of 'guardia'.
 You can see the guardia folder on your path. That folder contains rpm and deb files.
 
@@ -93,6 +103,7 @@ Although you don't have to do many things except below.
 <details>
 <summary>Controlling Service Daemon</summary>
 Controlling 'guardia' Daemon is common on both ubuntu 23.04 and centos 8 stream
+
 
 -  Start Daemon
 ```commandline
