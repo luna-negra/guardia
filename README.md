@@ -76,12 +76,12 @@ Install 'guardia' package with command 'rpm' or 'dpgk'
 
 [ centos 8 ]
 ```commandline
-rpm -ivh guardia-0.1.1_beta-1.el8.x86_64.rpm
+rpm -ivh guardia-0.1.2_beta-1.el8.x86_64.rpm
 ```
 
 [ ubuntu 23.04 ]
 ```commandline
-dpkg -l guardia-0.1.1_beta-1.amd64.deb
+dpkg -l guardia-0.1.2_beta-1.amd64.deb
 ```
 
 After installing package successfully, 
