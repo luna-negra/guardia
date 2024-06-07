@@ -96,7 +96,7 @@ After installing package successfully,
 'guardia' service daemon will be started and enabled. You can check it by using command below.
 ```commandline
 systemctl status guardia
-systemctl enable guardia
+systemctl is-enabled guardia
 ```
 
 </details>
