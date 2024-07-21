@@ -29,6 +29,10 @@ In 'guardia' you can register your host ip and username as a whitelist. Once whi
 you can try access to your machine unlimitedly with whitelist information without being blocked.
 
 ---
+## Architecture
+![image](https://github.com/user-attachments/assets/2269b29d-f695-477a-adc2-52c6ff6a8dfa)
+
+---
 ## Version
 
 <details>
